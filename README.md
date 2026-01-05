@@ -24,6 +24,8 @@ Predicted class
 Confidence score
 
 Per-class probability distribution
+LIVE DEMO = https://breastcancerdetection-9tyxebvfnhobn7u3rsc9qm.streamlit.app/
+
 
 <img width="685" height="417" alt="image" src="https://github.com/user-attachments/assets/4f16fec5-0aab-4b1f-8ac3-5621478dda3c" />
 
